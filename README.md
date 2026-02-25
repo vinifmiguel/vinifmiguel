@@ -1,5 +1,7 @@
 <h1 align="left"> Olá! Eu sou o Vinicius Freitas (Vini) 👋</h1>
-<strong>Desenvolvedor Web em Formação | Análise e Desenvolvimento de Sistemas</strong><br>
+<strong>Desenvolvedor Web em Formação | Análise e Desenvolvimento de Sistemas</strong>
+
+<br>
 
 Sou um profissional em transição de carreira, trazendo uma forte bagagem em **Gestão de Operações (Gerente Geral)** e **Eletrotécnica**. Essa combinação me deu duas coisas essenciais para a programação: liderança para resolver problemas sob pressão e raciocínio lógico apurado. 
 
