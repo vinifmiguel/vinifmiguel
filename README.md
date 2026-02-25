@@ -1,4 +1,4 @@
-<h2 align="left">### Olá! Eu sou o Vinicius Freitas (Vini) 👋
+<h2 align="left">### Olá! Eu sou o Vinicius Freitas (Vini) 👋</h2>
 **Desenvolvedor Web em Formação | Análise e Desenvolvimento de Sistemas**
 
 Sou um profissional em transição de carreira, trazendo uma forte bagagem em **Gestão de Operações (Gerente Geral)** e **Eletrotécnica**. Essa combinação me deu duas coisas essenciais para a programação: liderança para resolver problemas sob pressão e raciocínio lógico apurado. 
@@ -15,7 +15,7 @@ Sou um profissional em transição de carreira, trazendo uma forte bagagem em **
 * **Conceitos:** Manipulação de DOM, Lógica Condicional, Clean Code
 
 ### 🚀 Meu Foco Atual
-Construir aplicações interativas que gerem valor real. Sinta-se à vontade para testar a lógica do meu **Projeto Radar de Trânsito** fixado logo abaixo!</h2>
+Construir aplicações interativas que gerem valor real. Sinta-se à vontade para testar a lógica do meu **Projeto Radar de Trânsito** fixado logo abaixo!
 
 ###
 
