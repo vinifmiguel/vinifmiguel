@@ -1,4 +1,22 @@
-<h2 align="left">Hi 👋! My name is Vinicius... and I'm a future developer..., from Brazil ....</h2>
+<h2 align="left">### Olá! Eu sou o Vinicius Freitas Miguel (Vini) 👋
+
+**Desenvolvedor Web em Formação | Análise e Desenvolvimento de Sistemas**
+
+Sou um profissional em transição de carreira com forte vivência em gestão e operações. Minha experiência como Gerente Geral me ensinou a resolver problemas críticos sob pressão, otimizar processos e ter visão de negócio — habilidades de liderança que agora aplico na criação de software. Somado a isso, minha base técnica em Eletrotécnica me garante o raciocínio lógico e a precisão analítica necessários para a programação.
+
+Atualmente, sou acadêmico de **Análise e Desenvolvimento de Sistemas (UNINTER)**, focado em me tornar um Desenvolvedor Full-Stack. Construo aplicações web aplicando metodologias modernas, código limpo e foco total na entrega de soluções reais e funcionais.
+
+📍 **Base Atual:** Cidreira, RS ➔ **Disponibilidade Imediata:** Santa Catarina (SC)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+* **Front-end:** HTML5, CSS3, JavaScript (ES6+)
+* **Versionamento & Deploy:** Git, GitHub, GitHub Pages
+* **Conceitos:** Manipulação de DOM, Lógica Condicional, Clean Code
+
+### 🎯 Meu Foco Atual
+Desenvolver aplicações interativas e responsivas (sinta-se à vontade para testar o repositório do meu `Projeto-radar-js` fixado abaixo!) e me preparar para agregar visão de negócio, liderança e segurança técnica a times de desenvolvimento.</h2>
 
 ###
 
